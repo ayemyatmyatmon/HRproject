@@ -4,7 +4,7 @@
 
 Ninja HR is laravel base project. It includes employee management, attendance management, project management.
 
-.git clone https://github.com/ayemyatmyatmon/Ninja_HR.git
+.git clone https://github.com/ayemyatmyatmon/HRproject.git
 
 .copy .env.example to .env
 
